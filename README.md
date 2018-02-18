@@ -1,0 +1,1 @@
+some question system in SICP and my views
