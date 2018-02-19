@@ -1,1 +1,1 @@
-some question system in SICP and my views
+some demo in SICP and my views
